@@ -23,14 +23,15 @@ function (currentColor){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|  green   |  yellow     | 
+|  blue    |  nothing    | 
+|  red     |  green      | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>If the inputs are either green, yellow or red, they will return yellow, red, or green in the output respectively. 
+    If anything else is entered there will not be a color to output and it will be null</td>
   </tr>
 </table>
 
