@@ -24,7 +24,7 @@ function (currentColor){
 | Input | Output |
 | ----- | ------ |
 |  green   |  yellow     | 
-|  blue    |  nothing    | 
+|  blue    |  undefined  | 
 |  red     |  green      | 
 
 <table>
